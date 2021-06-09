@@ -55,7 +55,7 @@ Finally, I plotted the complex matrix graphically.
 
 # About Dataset
 
-#### The data contains information about almost six thousand users, their demographic characteristics, the services they use, the duration of using the operator's services, the method of payment, and the amount of payment. Features are showing below.
+#### The data contains information about almost 6000 users, their demographic characteristics, the services they use, the duration of using the operator's services, the method of payment, and the amount of payment. Features are showing below.
 
 
 customerID - customer id
@@ -99,7 +99,7 @@ TotalCharges - the total amount that the client paid for the services for the en
 Churn - whether there was a churn (Yes or No)
 
 
-
+Here is the link for dataset : https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 
 
